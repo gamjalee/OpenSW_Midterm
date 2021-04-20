@@ -3,6 +3,7 @@
 //기존에 제출한 깃 주소와 다른 주소입니다. 새로 repository를 작성했습니다.
 
 import java.io.File;
+import java.util.Scanner;
 import java.io.FileOutputStream;
 
 public class genSnippet {
